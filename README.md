@@ -124,12 +124,12 @@ width="60px" />
 </p>
 </div>
 
-<code lang="cpp">
-<p>while (true) {</p>
-<p>&nbsp&nbspcode()</p>
-<p>&nbsp&nbspeat()</p>
-<p>&nbsp&nbspsleep()</p>
-<p>&nbsp&nbspsport()</p>
-<p>}</p>
-</code>
+```cpp
+while (true) {
+  code();
+  eat();
+  sleep();
+  sport();
+}
+```
 </div>

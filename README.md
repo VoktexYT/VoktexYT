@@ -1,4 +1,8 @@
+<div style="text-align: center;">
 <h1 style="text-align: center;">Hi 👋, I'm Voktex</h1>
+  
+</div>
+
 
 <div
 style="background-color: rgba(250, 235, 215, 0.541); padding: 20px; border-radius: 5px; text-align: center; font-family: 'Courier New', Courier, monospace; width: 50%; margin: auto;">

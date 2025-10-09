@@ -11,6 +11,6 @@
 | Polyrisk            | Polygon war map              | [POLYRISK](https://voktexyt.github.io/Polyrisk/dist/)                |
 | Arcade Karate Game  | 2D karate game               | [ARCADE-KARATE-GAME](https://voktexyt.github.io/ARCADE-KARATE-GAME/) |
 | Arcade Ship Game    | Don't touch meteorite!       | [ARCADE-SHIP-GAME](https://voktexyt.github.io/ARCADE-SHIP-GAME/)     |
-| Pong Retro          | Just a pong ball             | [PONG-RETRO](https://voktexyt.github.io/PongRetro/)                   |
+| Pong Retro          | Just a pong ball             | [PONG-RETRO](https://voktexyt.github.io/PongRetro/dist)                   |
 | The Barrel Runner   | Jump and shoot!              | [THE-BARREL-RUNNER](https://voktexyt.github.io/THE-BARREL-RUNNER/dist)|
 | Flappy Birzz        | Try to fly between the pipes | [FLAPPY-BIRZZ](https://voktexyt.github.io/FLAPPY-BIRZZ/dist/)         |

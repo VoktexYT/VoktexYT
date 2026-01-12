@@ -1,4 +1,4 @@
-# Owner of Kanso Linux Distribution!
+
 
 # ~ Video Game Projects ~
 

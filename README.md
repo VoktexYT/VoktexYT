@@ -1,4 +1,4 @@
-### [Web Video Games](https://github.com/Web-Video-Games)
+### [Web Video Games Projects](https://github.com/Web-Video-Games)
 ### [Nix Projects](https://github.com/NixOS-Projects)
 ### [SaaS projects](https://github.com/Edge-SaaS)
 ### [School projects](https://github.com/cstj-h26)

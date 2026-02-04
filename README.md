@@ -1,9 +1,9 @@
-### All my web video games
+### Web Video Games
 
-### All my projects with Nix
+### Nix Projects
 
-### All my SaaS projects
+### SaaS projects
 
-### All my school projects
+### School projects
 
-### All my old projects
+### Old projects

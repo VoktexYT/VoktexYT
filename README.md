@@ -4,5 +4,5 @@
 
 ### SaaS projects
 
-### (School projects)[https://github.com/cstj-h26]
+### [School projects](https://github.com/cstj-h26)
 ### Old projects

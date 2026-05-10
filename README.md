@@ -1,9 +1,10 @@
 <table>
   <tr>
     <a href="https://github.com/ubert-guertin-saas">
-    <td><img src="./saas_link.png" width="50"></td>
-    <td><strong>SaaS Projects</strong></td>
-    </a>
+      <td><img src="./saas_link.png" width="50"></td>
+     </a>
+    <td><strong><a href="https://github.com/ubert-guertin-saas">SaaS Projects</strong> </a></td>
+   
   </tr>
   <tr>
     <td><a href="https://github.com/ubert-guertin-games"><img src="./game_link.png" width="50"></a></td>
